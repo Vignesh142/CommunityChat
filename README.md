@@ -12,3 +12,5 @@ The list of all the users available and can chat with any one of them online.
 The basic UI interface for chat between the two users, where they can send and unsed the chat messages.
 
 ![Screenshot_20230129_041927](https://github.com/Vignesh142/CommunityChat/assets/101886482/da6e453e-778b-4151-88be-c2cb09f8f93c)
+
+Here, I have used the firebase cloud storage to store the chat data. So, they dosen't store in local machine, but in the firebase cloud storage.
